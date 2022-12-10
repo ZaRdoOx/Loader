@@ -1,4 +1,3 @@
 if game.PlaceId == 10404327868 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/Timber%20Champions"))()
-loadstring(game:HttpGet("https://api.countapi.xyz/hit/platiniumscripts.xyz/5d9824be-3d18-4cd9-9d00-ef037768d6f1"))()
 end
