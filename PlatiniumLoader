@@ -2,9 +2,10 @@ if game.PlaceId == 10404327868 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/Timber%20Champions"))()
 
 elseif game.PlaceId == 11445923563 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/One%20Fruit%20Simulator"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/One%20fruit%20updated"))()
 
 elseif game.PlaceId == 8884334497 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/Mining%20Clicker%20Simulator"))()
+    
 end
     
