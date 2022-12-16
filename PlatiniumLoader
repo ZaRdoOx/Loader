@@ -7,5 +7,7 @@ elseif game.PlaceId == 11445923563 then
 elseif game.PlaceId == 8884334497 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/Mining%20Clicker%20Simulator"))()
     
+elseif game.PlaceId == 8540346411 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/Rebirth%20Champions%20X"))()
 end
     
