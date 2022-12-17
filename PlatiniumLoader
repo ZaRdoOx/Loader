@@ -9,5 +9,9 @@ elseif game.PlaceId == 8884334497 then
     
 elseif game.PlaceId == 8540346411 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/Rebirth%20Champions%20X"))()
+    
+elseif game.PlaceId == 10967799786 then 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/Pet%20Lifting%20Simulator"))()
+
 end
     
