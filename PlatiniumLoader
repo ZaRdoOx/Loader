@@ -13,7 +13,7 @@ elseif game.PlaceId == 8540346411 then
 elseif game.PlaceId == 10967799786 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/Pet%20Lifting%20Simulator"))()
 
-elseif game.PlaceId == 4616652839 or game.PlaceId == 6986372023 or game.PlaceId == 5451398863 or game.PlaceId == 7923764447 then 
+elseif game.PlaceId == 4616652839 or game.PlaceId == 6986372023 or game.PlaceId == 5451398863 or game.PlaceId == 7923764447 or game.PlaceId == 4601350214 then 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/ShindoLife"))()
 
 end
