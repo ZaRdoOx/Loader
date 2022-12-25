@@ -93,5 +93,5 @@ elseif table.find(Shindo, game.PlaceId) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/ShindoLife"))()
     
 elseif game.PlaceId == 6918802270 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/PlatiniumDev/files/main/Project%20New%20World"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Side-Files/main/PNW"))()
 end
